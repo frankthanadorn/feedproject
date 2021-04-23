@@ -1,5 +1,5 @@
 # feedproject
-"Frankbook project " this project is a website that similar to Facebook create by using react
+"Frankbook project " this project is a website that similar to Facebook create by using react (full project in the master branch)
 
 https://frankthanadorn.github.io/feedproject/
 
